@@ -1,20 +1,26 @@
-# ¡Hola! Soy Boris 👋
-![Visitas](https://komarev.com/ghpvc/?username=boriscr&color=blue&style=flat-square)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hola,%20soy%20Boris%20👋&fontSize=70&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=25&descAlignY=75" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=boriscr&label=PERFIL+VISTO&color=0078d4&style=for-the-badge" alt="boriscr" />
+</p>
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=El%20código%20es%20como%20el%20humor.%20Cuando%20tienes%20que%20explicarlo,%20es%20malo.&author=Cory%20House" alt="Quote" />
 </p>
 
 ### 👨‍💻 Sobre mí
 
-- 🌱 Estoy aprendiendo constantemente sobre **Arquitectura de Software y Optimización**
+- 🌱 Aprendiendo constantemente sobre **Arquitectura de Software y Optimización**
 - 💬 Pregúntame sobre **PHP, Laravel y Desarrollo Web**
-- ⚡ Me apasiona resolver problemas complejos con soluciones simples.
+- ⚡ Resolviendo problemas complejos con soluciones simples.
 
 ---
 
 ### 🛠 Tecnologías y Herramientas
 
-Aquí están las herramientas que utilizo para dar vida a mis ideas:
+Herramientas que utilizo para dar vida a mis ideas:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,11 +41,12 @@ Aquí están las herramientas que utilizo para dar vida a mis ideas:
 ### 🤝 Conectemos
 
 <p align="center">
-  <a href="https://linkedin.com/in/boris-cruz-3230b9222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="<TU_NOMBRE>" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/kredensir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boris" height="30" width="40" /></a>
   <a href="https://facebook.com/robin.boris.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Boris" height="30" width="40" /></a>
   <a href="https://instagram.com/boris_kredensir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Boris" height="30" width="40" /></a>
    <a href="https://github.com/boriscr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Boris" height="30" width="40" /></a>
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
