@@ -48,5 +48,9 @@ Herramientas que utilizo para dar vida a mis ideas:
 </p>
 
 <p align="center">
+  <a href="https://kredensir.blogspot.com/2026/01/projects.html" target="blank"><img align="center" src="https://facultadcienciaseconomicas.ut.edu.co/images/Iconos/click2-Aqui.gif" alt="web" height="200" width="500" /></a>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
