@@ -52,13 +52,14 @@ Soy un desarrollador enfocado en crear productos digitales sólidos, escalables 
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kredensir&show_icons=true&theme=tokyonight&border_radius=14" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kredensir&layout=compact&theme=tokyonight&border_radius=14" />
+  <img height="180em" src="https://github-readme-stats-mu-bice-30.vercel.app/api?username=kredensir&show_icons=true&theme=tokyonight&border_radius=14" />
+  <img height="180em" src="https://github-readme-stats-mu-bice-30.vercel.app/api/top-langs/?username=kredensir&layout=compact&theme=tokyonight&border_radius=14" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kredensir&theme=tokyo-night&hide_border=true" alt="Actividad GitHub" />
+  <img src="https://github-readme-activity-graph-opal-seven.vercel.app/graph?username=kredensir&theme=tokyo-night&hide_border=true" alt="Actividad GitHub" />
 </p>
+
 
 ---
 
