@@ -3,8 +3,7 @@
 </p>
 <p align="center">
   <a href="https://historia-sepia-one.vercel.app/" target="blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=60&section=header&text=🎁JUGAR%20AHORA🎮&fontSize=24&fontColor=FFFFFF&animation=twinkling" alt="🎁 JUGAR AHORA 🎮" />
-  </a>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=120&section=header&text=❤❤JUGAR%20AHORA🎮&fontSize=34&fontColor=FFFFFF&animation=twinkling" alt="🎁 JUGAR AHORA 🎮" />  </a>
 </p>
 
 <p align="center">
